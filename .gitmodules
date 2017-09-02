@@ -1,0 +1,21 @@
+[submodule "poc-apigateway"]
+	path = poc-apigateway
+	url = https://github.com/humbhenri/poc-apigateway
+[submodule "poc-service-discovery"]
+	path = poc-service-discovery
+	url = https://github.com/humbhenri/poc-service-discovery
+[submodule "poc-matricula"]
+	path = poc-matricula
+	url = https://github.com/humbhenri/poc-matricula
+[submodule "poc-integracao"]
+	path = poc-integracao
+	url = https://github.com/humbhenri/poc-integracao
+[submodule "poc-cursos"]
+	path = poc-cursos
+	url = https://github.com/humbhenri/poc-cursos
+[submodule "poc-models"]
+	path = poc-models
+	url = https://github.com/humbhenri/poc-models
+[submodule "plataforma-legada-ws"]
+	path = plataforma-legada-ws
+	url = https://github.com/humbhenri/plataforma-legada-ws

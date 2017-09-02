@@ -7,13 +7,13 @@
 	<packaging>pom</packaging>
 	<name>SCA</name>
     <modules>
-        <module>../poc-models</module>
-        <module>../plataforma-legada-ws</module>
-        <module>../poc-apigateway</module>
-        <module>../poc-cursos</module>
-        <module>../poc-integracao</module>
-        <module>../poc-matricula</module>
-        <module>../poc-service-discovery</module>
+        <module>poc-models</module>
+        <module>plataforma-legada-ws</module>
+        <module>poc-apigateway</module>
+        <module>poc-cursos</module>
+        <module>poc-integracao</module>
+        <module>poc-matricula</module>
+        <module>poc-service-discovery</module>
     </modules>
 	<build>
 		<pluginManagement>
