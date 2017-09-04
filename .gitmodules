@@ -19,3 +19,9 @@
 [submodule "plataforma-legada-ws"]
 	path = plataforma-legada-ws
 	url = https://github.com/humbhenri/plataforma-legada-ws
+[submodule "poc-compose"]
+	path = poc-compose
+	url = https://github.com/humbhenri/poc-compose
+[submodule "poc-db"]
+	path = poc-db
+	url = https://github.com/humbhenri/poc-db
