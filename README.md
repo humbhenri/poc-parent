@@ -6,6 +6,7 @@ Assegure-se que tenha um `jdk` versão 8, `mvn` e `docker-compose` instalados na
 Execute os comandos em um console:
 ```
 mvn clean package
+cd poc-compose
 docker-compose up -d
 ```
 A aplicação é acessível no endereço `localhost:8080`.
