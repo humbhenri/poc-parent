@@ -5,11 +5,11 @@ Projeto agregador do Sistema de Controle Acadêmico para o POC de Arquitetura de
 Assegure-se que tenha um `jdk` versão 8, `mvn` e `docker-compose` instalados na máquina e no `PATH`.
 Execute os comandos em um console:
 ```
-mvn clean package
+mvn clean package install -Pdocker
 cd poc-compose
 docker-compose up -d
 ```
-A aplicação é acessível no endereço `localhost:8080`.
+A aplicação é acessível no endereço `localhost`.
 
 ## Execução sem docker
 ### Windows (Powershell)
